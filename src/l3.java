@@ -1,3 +1,4 @@
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -15,7 +16,7 @@ public class l3 {
     }
     
     public void run(){
-       String file = "/Users/Sandra/Desktop/Zeszyt1.csv";
+       String file = "src/Zeszyt1.csv";
        BufferedReader br = null;
        String line = "";
        String cvsSplitBy = ",";
